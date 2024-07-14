@@ -11,7 +11,7 @@ The Query Application allows users to input questions and receive answers based 
 
 ## **How to Use the App**
 
-https://github.com/muhammadadilnaeem/Practice-Projects/assets/162784706/474c9b69-8bd8-4f3c-9272-69708cdb6e81
+https://github.com/user-attachments/assets/358a88e4-fa38-4319-86ff-c4f66033833f
 
 ### **Home Page**
 #### **Enter a Question**
