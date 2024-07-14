@@ -1,0 +1,25 @@
+Samantha Wilkins
+Generative AI Engineer | Deep Learning Specialist
+Summary
+Experienced generative AI engineer with a strong background in deep learning. Skilled in developing cutting-edge AI models for image, text, and audio generation. Passionate about pushing the boundaries of artificial intelligence and creating innovative solutions.
+Skills
+Proficient in Python, TensorFlow, PyTorch, and Keras
+Expertise in generative adversarial networks (GANs), variational autoencoders (VAEs), and transformer models
+Knowledge of deep learning architectures such as convolutional neural networks (CNNs) and recurrent neural networks (RNNs)
+Familiarity with unsupervised and semi-supervised learning techniques
+Excellent problem-solving and analytical skills
+Experience
+Generative AI Engineer, XYZ AI Research Lab (2020 - Present)
+Developed and optimized GAN models for high-quality image generation, achieving state-of-the-art results on benchmark datasets
+Implemented transformer-based models for text generation, enabling the creation of coherent and contextually relevant content
+Collaborated with cross-functional teams to integrate generative AI models into various applications and platforms
+Deep Learning Intern, ABC Machine Learning Company (2019 - 2020)
+Assisted in the design and implementation of VAE models for audio generation
+Conducted research on novel deep learning architectures and techniques for improved generative performance
+Participated in code reviews and documentation to ensure code quality and maintainability
+Education
+Master of Science in Computer Science, University of Technology (2018 - 2020)
+Specialization in Artificial Intelligence and Machine Learning
+Thesis: "Improving Generative Adversarial Networks for High-Resolution Image Synthesis"
+Bachelor of Science in Computer Engineering, State University (2014 - 2018)
+Graduated with Honors

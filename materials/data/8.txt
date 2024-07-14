@@ -1,0 +1,23 @@
+Michael Pham
+Generative AI Enthusiast | Deep Learning Developer
+Summary
+Passionate generative AI enthusiast with a strong background in deep learning. Skilled in developing and optimizing deep learning models for various applications, including image, text, and audio generation. Committed to advancing the field of artificial intelligence through continuous learning and innovation.
+Skills
+Proficient in Python, TensorFlow, PyTorch, and Keras
+Knowledge of deep learning architectures such as CNNs, RNNs, and transformers
+Familiarity with state-of-the-art generative AI techniques such as GANs, VAEs, and diffusion models
+Excellent problem-solving and analytical skills
+Eager to learn and adapt to new technologies and techniques
+Experience
+Deep Learning Developer, XYZ Tech Company (2022 - Present)
+Developed and optimized GAN models for high-quality image generation, achieving state-of-the-art results on benchmark datasets
+Implemented transformer-based models for text generation, enabling the creation of coherent and contextually relevant content
+Collaborated with cross-functional teams to integrate generative AI models into various applications and platforms
+Generative AI Intern, ABC Research Lab (2021 - 2022)
+Assisted in the design and implementation of VAE models for audio generation
+Conducted research on novel deep learning architectures and techniques for improved generative performance
+Participated in code reviews and documentation to ensure code quality and maintainability
+Education
+Bachelor of Science in Computer Engineering, University of Technology (2018 - 2022)
+Specialization in Artificial Intelligence and Machine Learning
+Graduated with Honors

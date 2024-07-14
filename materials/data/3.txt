@@ -1,0 +1,23 @@
+Emily Nguyen
+Generative AI Developer | Deep Learning Enthusiast
+Summary
+Skilled generative AI developer with a strong background in deep learning. Experienced in developing and deploying cutting-edge AI models for various applications, including image, text, and audio generation. Passionate about creating innovative solutions that push the boundaries of artificial intelligence.
+Skills
+Proficient in Python, TensorFlow, PyTorch, and Keras
+Expertise in developing and optimizing GAN, VAE, and diffusion models for generative tasks
+Knowledge of deep learning architectures such as CNNs, RNNs, and transformers
+Familiarity with cloud platforms and deployment strategies for AI models
+Excellent problem-solving and communication skills
+Experience
+Generative AI Developer, ABC Tech Company (2022 - Present)
+Developed and optimized GAN models for high-quality image generation, achieving state-of-the-art results on benchmark datasets
+Implemented transformer-based models for text generation, enabling the creation of coherent and contextually relevant content
+Collaborated with cross-functional teams to integrate generative AI models into various applications and platforms
+Deep Learning Intern, XYZ AI Research Lab (2021 - 2022)
+Assisted in the design and implementation of VAE models for audio generation
+Conducted research on novel deep learning architectures and techniques for improved generative performance
+Participated in code reviews and documentation to ensure code quality and maintainability
+Education
+Bachelor of Science in Computer Science, University of Technology (2018 - 2022)
+Specialization in Artificial Intelligence and Machine Learning
+Graduated with Honors

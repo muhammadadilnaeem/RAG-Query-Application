@@ -1,0 +1,26 @@
+Michael Chen
+Deep Learning Researcher | Generative AI Enthusiast
+Summary
+Passionate deep learning researcher with a strong interest in generative AI. Skilled in developing novel deep learning architectures and techniques for various applications, including image, text, and audio generation. Committed to advancing the field of artificial intelligence through research and innovation.
+Skills
+Proficient in Python, TensorFlow, PyTorch, and Keras
+Expertise in designing and implementing deep learning models from scratch
+Knowledge of state-of-the-art generative AI techniques such as GANs, VAEs, and diffusion models
+Strong mathematical and statistical background
+Excellent research and analytical skills
+Experience
+Deep Learning Researcher, ABC AI Research Institute (2021 - Present)
+Conducted research on novel deep learning architectures and techniques for improved generative performance
+Developed and optimized diffusion models for high-quality image generation, achieving state-of-the-art results on benchmark datasets
+Collaborated with cross-functional teams to publish research papers in top-tier AI conferences and journals
+Graduate Research Assistant, University of Technology (2019 - 2021)
+Assisted in the design and implementation of GAN models for text generation
+Conducted experiments and analyzed results to improve the performance of generative AI models
+Participated in code reviews and documentation to ensure code quality and maintainability
+Education
+Doctor of Philosophy in Computer Science, University of Technology (2019 - 2023)
+Specialization in Artificial Intelligence and Machine Learning
+Dissertation: "Advancing Generative Adversarial Networks for High-Resolution Image Synthesis"
+Master of Science in Computer Science, State University (2017 - 2019)
+Specialization in Artificial Intelligence and Machine Learning
+Thesis: "Improving Variational Autoencoders for Audio Generation"

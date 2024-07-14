@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Query Application</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Query Application</h1>
+        <form method="post">
+            <label for="question">Enter your question:</label>
+            <input type="text" id="question" name="question" required>
+            <button type="submit">Ask</button>
+        </form>
+        <div class="response">
+            {% if response %}
+            <p><strong>Answer:</strong> {{ response }}</p>
+            {% endif %}
+        </div>
+    </div>
+</body>
+
+</html>

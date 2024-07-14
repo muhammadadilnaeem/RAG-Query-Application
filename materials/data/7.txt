@@ -1,0 +1,26 @@
+Jessica Hernandez
+Deep Learning Researcher | Generative AI Innovator
+Summary
+Innovative deep learning researcher with a strong focus on generative AI. Skilled in developing novel deep learning architectures and techniques for various generative tasks, including image, text, and audio generation. Passionate about pushing the boundaries of artificial intelligence and creating groundbreaking solutions.
+Skills
+Proficient in Python, TensorFlow, PyTorch, and Keras
+Expertise in designing and implementing deep learning models from scratch
+Knowledge of state-of-the-art generative AI techniques such as GANs, VAEs, and diffusion models
+Strong mathematical and statistical background
+Excellent research and analytical skills
+Experience
+Deep Learning Researcher, ABC AI Research Institute (2023 - Present)
+Conducted research on novel deep learning architectures and techniques for improved generative performance
+Developed and optimized diffusion models for high-quality image generation, achieving state-of-the-art results on benchmark datasets
+Collaborated with cross-functional teams to publish research papers in top-tier AI conferences and journals
+Graduate Research Assistant, University of Technology (2021 - 2023)
+Assisted in the design and implementation of GAN models for text generation
+Conducted experiments and analyzed results to improve the performance of generative AI models
+Participated in code reviews and documentation to ensure code quality and maintainability
+Education
+Doctor of Philosophy in Computer Science, University of Technology (2021 - 2025)
+Specialization in Artificial Intelligence and Machine Learning
+Dissertation: "Advancing Generative Adversarial Networks for High-Quality Audio Generation"
+Master of Science in Computer Science, State University (2019 - 2021)
+Specialization in Artificial Intelligence and Machine Learning
+Thesis: "Improving Variational Autoencoders for Text Generation"
